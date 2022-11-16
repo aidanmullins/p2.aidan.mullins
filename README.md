@@ -10,4 +10,6 @@ The weather in the top-middle of the mirror is most visually appealing directly 
 
 With only the health information and personal notifications left, it's somewhat of a toss-up as to whether to place each of those on the bottom-left or bottom-right. I found that the health info on the left and personal notifications on the right looked the best.
 
+The health information includes a section about sleep which shows how much you slept last night, as well as comparing that to the average amount of sleep you have received over the course of the past week. It also includes your current weight, and shows the change in your weight compared to a week before. Finally the health section includes a daily exercise goal with a desired number of calories to burn and how far along you are to reaching that goal.
+
 ![](p2.aidan.mullins.png)
