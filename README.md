@@ -16,6 +16,8 @@ The health information includes a section about sleep which shows how much you s
 
 # Part B
 
+Below is a picture and gif of the output from my Processing implementation of my design for a magic mirror. The mirror is on a bathroom mirror with bright lighting and displays the current date, 24-hour time. It also shows a personalized schedule for me in which the times are also in 24-hour time so that it is easy to associate with the above time. All of the sections are enclosed in rounded rectangles to be consistent with the mirror itself for visual purposes, except for the weather, because it looked better not enclosed in a rectangle. Overall I think other than adding extra functionality to my mirror, this is a great design that is very pleasing and has plenty of useful information for the user.
+
 ![](FinalInterface.png)
 
 ![](p2.aidan.mullins.gif)
